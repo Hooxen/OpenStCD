@@ -1,6 +1,8 @@
 # OpenStCD
 Open source paltform project of 'Stickers of catties and doggies'
 
+![image](https://github.com/ZimoJupiter/OpenStCD/blob/main/Pictures/Cat%20and%20Dog.jpg)
+
 ## Project Goal
 The goal of our project is to create a platform for sharing catty and doggy stickers, providing users with a simple and user-friendly way to upload, download, and edit stickers. Our platform aims to bring joy and fun to users by offering a diverse collection of that can be easily accessed and shared.
 
