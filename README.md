@@ -1,2 +1,3 @@
 # Stickers
-Stickers of cats and dogs
+OpenStCD
+Open source project of 'Stickers of cats and dogs'
